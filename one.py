@@ -1,4 +1,2 @@
 print('jhyg')
-pass
-pass
-
+f = 'лоиломилми'
