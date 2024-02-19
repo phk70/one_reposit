@@ -4,43 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="516cdfa6-f2bc-4b39-876b-ab3de18dc424" name="Changes" comment="4мпмпuy">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pythonProject_git.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="516cdfa6-f2bc-4b39-876b-ab3de18dc424" name="Changes" comment="54jhbjh">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pythonProject_git.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/one.py" beforeDir="false" afterPath="$PROJECT_DIR$/one.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Python Script" />
-      </list>
-    </option>
-  </component>
-  <component name="Git.Pull.Settings">
-    <option name="OPTIONS">
-      <set>
-        <option value="FF_ONLY" />
-        <option value="NO_COMMIT" />
-        <option value="NO_VERIFY" />
-      </set>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="ROOT_SYNC" value="SYNC" />
+    <option name="RESET_MODE" value="MIXED" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
+  "associatedIndex": 0
 }]]></component>
-  <component name="ProjectId" id="2caTGIwiUGO4HazCTZGz4MyPzsF" />
+  <component name="ProjectId" id="2cab5AAg9SU0KCurMPCbwBa2MQC" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -52,12 +37,9 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
-  },
-  "keyToStringList": {
-    "ChangesTree.GroupingKeys": [
-      "directory"
-    ]
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "c6d4454d",
+    "last_opened_file_path": "C:/Users/koles/PycharmProjects/Practik/pythonProject_git"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -70,45 +52,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="516cdfa6-f2bc-4b39-876b-ab3de18dc424" name="Changes" comment="" />
-      <created>1708348592456</created>
+      <changelist id="516cdfa6-f2bc-4b39-876b-ab3de18dc424" name="Changes" comment="54jhbjh" />
+      <created>1708352450375</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1708348592456</updated>
+      <updated>1708352450375</updated>
     </task>
-    <task id="LOCAL-00001" summary="mhbjhhjhb">
-      <option name="closed" value="true" />
-      <created>1708349260312</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1708349260312</updated>
-    </task>
-    <task id="LOCAL-00002" summary="2ewq">
-      <option name="closed" value="true" />
-      <created>1708349437336</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1708349437336</updated>
-    </task>
-    <task id="LOCAL-00003" summary="3uy">
-      <option name="closed" value="true" />
-      <created>1708350697956</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1708350697956</updated>
-    </task>
-    <task id="LOCAL-00004" summary="4мпмпuy">
-      <option name="closed" value="true" />
-      <created>1708351258966</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1708351258966</updated>
-    </task>
-    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -121,12 +70,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="mhbjhhjhb" />
-    <MESSAGE value="2ewq" />
-    <MESSAGE value="3uy" />
-    <MESSAGE value="4мпмпuy" />
-    <option name="LAST_COMMIT_MESSAGE" value="4мпмпuy" />
   </component>
 </project>
